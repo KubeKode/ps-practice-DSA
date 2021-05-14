@@ -1,3 +1,4 @@
+// Write a program to find the square root of a number.
 const sqrt = (num)=>{
     let res;
     let i = 0;
