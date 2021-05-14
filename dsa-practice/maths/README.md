@@ -2,7 +2,7 @@
 
 <ol>
 <li><a href="problem1.js">Check if a number is prime or not.</a></li>
-<li><a href="problem2.js">Write a program in cpp to find the square root of a number.</a></li>
+<li><a href="problem2.js">Write a program to find the square root of a number.</a></li>
 <li><a href="problem3.js">Reverse a given number n</a></li>
 <li><a href="problem4.js">Check if a given number is armstrong number or not</a></li>
 <li><a href="problem5.js">Calculate the factorial of a number.</a></li>
