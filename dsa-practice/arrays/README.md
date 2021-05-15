@@ -10,7 +10,7 @@
 
 ## <a href="searching/searching.js">Searching in Arrays</a>
 ## <a href="sorting">Sorting in Arrays</a>
-### <li><a href="sorting/selectionsort.cjs>Selection Sort</a></li>
+### <li><a href="sorting/selectionsort.js">Selection Sort</a></li>
 ### <li><a href="sorting/bubblesort.js">Bubble Sort</a></li>
 ### <li><a href="sorting/insertionsort.js">Insertion Sort</a></li>
 </ul>
