@@ -8,12 +8,10 @@
 
 ### <a href="operations.js">Operations on Array- Insertion , Deletion.</a>
 
-## <a href="searching/searching.js">Searching in Arrays</a>
-## <a href="sorting">Sorting in Arrays</a>
-### <li><a href="sorting/selectionsort.js">Selection Sort</a></li>
-### <li><a href="sorting/bubblesort.js">Bubble Sort</a></li>
-### <li><a href="sorting/insertionsort.js">Insertion Sort</a></li>
-</ul>
+## <a href="searching.ts">Searching in Arrays</a>
+
+## <a href="sorting.ts">Selection sort, bubble sort, insertion sort</a>
+
 
 ### <a href="problemset1">Problem Set 1(Arrays)</a>
 ### <a href="">Problem Set 2(Arrays)</a>
