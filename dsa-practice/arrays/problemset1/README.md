@@ -1,6 +1,6 @@
 # Array Challenges
 <ol>
-<li><a href="prob1.cpp">Given an array a[] of size n. For every i from 0 to n-1 output max(a[0], a[1],..., a[i]).</a></li>
+<li><a href="prob1.ts">Given an array a[] of size n. For every i from 0 to n-1 output max(a[0], a[1],..., a[i]).</a></li>
 
 
 <li><a href="prob2.cpp">Sum of all subarrays.Output sum of each subarray of the given array.</a></li>
