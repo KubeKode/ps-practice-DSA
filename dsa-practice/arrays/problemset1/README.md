@@ -3,8 +3,8 @@
 <li><a href="prob1.ts">Given an array a[] of size n. For every i from 0 to n-1 output max(a[0], a[1],..., a[i]).</a></li>
 
 
-<li><a href="prob2.cpp">Sum of all subarrays.Output sum of each subarray of the given array.</a></li>
-<li><a href="prob3.cpp">Longest Arithmetic subarray.(Google Kickstart)</a></li>
+<li><a href="prob2.ts">Sum of all subarrays.Output sum of each subarray of the given array.</a></li>
+<li><a href="prob3.ts">Longest Arithmetic subarray.(Google Kickstart)</a></li>
 <li><a href="prob4.cpp"><b>Problem:</b>(Google Kickstart) <br>
 Isyana is given the number of visitors at her local theme park on N consecutive
 days. The number of visitors on the i-th day is Vi. A day is record breaking if it
