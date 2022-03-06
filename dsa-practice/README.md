@@ -6,7 +6,6 @@
 ### <li><a href="mathematics/problem12.js">Inclusion Exclution principle</a>
 ### <li><a href="mathematics/gcd.js">Euclid GCD</a>
 
-
 ## Arrays
 ### <li><a href="arrays">Introduction to arrays </a>
 ### <li><a href="arrays/searching">Searching in arrays linear and binary search</a>
@@ -19,17 +18,14 @@
 ### <li><a href="arrays/2d-arrays">2-D arrays and challenges</a>
 ### <li><a href="arrays/char-arrays">Character Arrays</a>
 
-
 ## Strings
 ### <li><a href="strings">Strings and functions</a>
 ### <li><a href="strings/problems">String challenges</a>
-
 
 ## Bit Manipulation
 ### <li><a href="bit-manipulation">Introduction to bit-manipulation</a>
 ### <li><a href="bit-manipulation/problemset1">Bit manipulation challenges</a>
 ### <li><a href="bit-manipulation/problemset2">Bit Manipulation advanced challenges</a>
-
 
 ## Recursion and Backtracking
 ### <li><a href="recursion-backtracking/intro">Introduction to Recursion</a>
@@ -45,7 +41,6 @@
 ### <li><a href="recursion-backtracking/backtracking">Backtracking - Rat in a maze</a>
 
 ### <li><a href="recursion-backtracking/backtracking">N - Queen Problem</a>
-
 
 ## Sorting Algorithms
 ### <li><a href="">Merge Sort</a>

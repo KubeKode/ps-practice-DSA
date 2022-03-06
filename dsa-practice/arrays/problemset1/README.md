@@ -17,14 +17,9 @@ Note that the very first day could be a record breaking day!
 Please help Isyana find out the number of record breaking days.</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-
-
-
-
 </ol>
