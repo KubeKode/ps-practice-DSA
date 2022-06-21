@@ -12,9 +12,9 @@
 ### <li><a href="arrays/sorting/selectionsort.js">Sorting in arrays - Selection sort</a>
 ### <li><a href="arrays/sorting/bubblesort.js">Sorting in arrrays - Bubble Sort</a>
 ### <li><a href="arrays/sorting/">Sorting in arrays- Insertion Sort</a>
-### <li><a href="arrays/problemset1">Arrays Challenges -1</a>
-### <li><a href="arrays/problemset2">Arrays Challenges -2</a>
-### <li><a href="arrays/problemset3">Arrays Challenges -3</a>
+### <li><a href="arrays/problemset1">Arrays Challenges -1: Basic problems</a>
+### <li><a href="arrays/problemset2">Arrays Challenges -2: Qs asked by TOP MNCs</a>
+### <li><a href="arrays/problemset3">Arrays Challenges -3: Subarrays Challenges</a>
 ### <li><a href="arrays/2d-arrays">2-D arrays and challenges</a>
 ### <li><a href="arrays/char-arrays">Character Arrays</a>
 
